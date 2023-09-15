@@ -4,17 +4,17 @@ This project aims to explore and analyze climate data, focusing on global temper
 
 Climate change is one of the most pressing global issues of our time. To better understand its dynamics, this project delves into two key aspects: global temperature change and CO2 emissions evolution. We have used data from the Climate Watch Data Portal to analyze how the emissions of all countries have evolved over nearly three decades.
 
-Data Sources
+**Data Sources**
 Global Temperature Data: We obtained global temperature data from [source name/link].
 CO2 Emissions Data: CO2 emissions data for all countries were sourced from the Climate Watch Data Portal [link to data portal].
 Analysis
 1. Global Temperature Change
 We began by analyzing the global temperature change from 1990 to 2018. The data was processed and visualized to identify trends, anomalies, and potential correlations with other factors such as CO2 emissions.
-
+here is the drive link of the data set :- https://drive.google.com/file/d/1Lo0CB58Cj6sb8PaM1Yc8HPiRPilKwIGZ/view?usp=sharing
 2. CO2 Emissions Evolution
 The second phase of our analysis focused on the evolution of CO2 emissions for all countries during the same period. We visualized the data to identify countries with significant emissions growth or reduction and looked for regional patterns.
 
-Usage
+**Usage**
 To replicate or build upon this project, follow these steps:
 
 Clone the Repository: Clone this repository to your local machine using git clone.
@@ -27,7 +27,7 @@ Explore the Data: Dive into the Jupyter notebooks provided for detailed data exp
 
 Customize and Extend: Feel free to customize the analysis, add more data sources, or refine the visualizations to suit your needs.
 
-Contributing
+**Contributing**
 We welcome contributions from the community to enhance the analysis, improve visualizations, or add more features to this project. To contribute, please follow these steps:
 
 Fork the repository.
